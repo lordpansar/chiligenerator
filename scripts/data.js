@@ -6,4 +6,4 @@ let places = ['Detroit', 'Kabul', 'Kingston', 'S:t Louis', 'Lagos', 'New Orleans
 let animals = ['scorpion', 'tiger', 'viper', 'anaconda', 'constrictor', 'black widow', 'hippo', 'great white', 'mamba', 'grizzly',
     'lion', 'box jellyfish', 'taranchula', 'funnel web spider', 'Komodo dragon', 'mosquito', 'tick', 'elephant', 'crocodile',
     'alligator', 'gorilla', 'wolf', 'moose', 'tiger shark', 'rattle snake', 'chupacabra', 'werewolf', 'rabid dog', 'dart frog',
-    'dragon', 'fire ant', 'cobra', 'cougar'];
+    'dragon', 'fire ant', 'cobra', 'puma'];
