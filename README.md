@@ -1,7 +1,7 @@
 ChiliGenerator
 ------------------------------------
 
-You can make up a name of a chili species just by combining a dangerous place and a dangerous animal.
+You can make up the name of a chili species just by combining a dangerous place and a dangerous animal.
 ChiliGenerator does this for you, so you don't have to.
 
 The app is written in HTML, CSS, vanilla JS and Twitter Bootstrap and is hosted on Azure. 
