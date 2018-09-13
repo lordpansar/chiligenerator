@@ -8,6 +8,13 @@ body {
     overflow: hidden;
 }
 
-.jumbotron { margin:5% }
+.jumbotron { 
+    margin:5%;
+}
 
-.width90 { width: 90%; padding: 3%; font-size: 20px; border-color:orange; }
+.width90 { 
+    width: 90%;
+    padding: 3%;
+    font-size: 20px;
+    border-color:orange; 
+}
