@@ -16,5 +16,12 @@
     "inputFiles": [
       "css/styles.css"
     ]
+  },
+  {
+    "outputFileName": "scripts/bundle.js",
+    "inputFiles": [
+      "scripts/data.js",
+      "scripts/generator.js"
+    ]
   }
 ]
